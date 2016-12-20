@@ -37,9 +37,6 @@
  *
  * COMPILING: gcc arpm.c -o arpm -lpcap
  *
- * LICENSE: This software is licensed under Creative Commons 4.0 (BY-NC-SA). 
- * (See https://creativecommons.org/licenses/by-nc-sa/4.0/ for more info).
- *
  */
 
 #include <pcap.h>
